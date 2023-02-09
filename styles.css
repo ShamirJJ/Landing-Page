@@ -63,7 +63,8 @@ ul {
     background-color: #3882F6;
     color: white;
     padding: 5px 20px;
-    border-radius: 5px;
+    border-radius: 8.5px;
+    border: none;
 }
 
 .image {
@@ -128,6 +129,11 @@ ul {
 }
 
 .btn2 {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 8.5px;
+    border: 2px white solid;
     
 }
 
