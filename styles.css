@@ -121,6 +121,12 @@ ul {
     border-radius: 8.5px;
 }
 
+.box-text {
+    max-width: 110px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
 .quote-container {
     flex: 1;
     height: 350px;
