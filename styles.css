@@ -78,6 +78,47 @@ ul {
     flex: 1;
     height: 300px;
     background-color: white;
+ 
+}
+
+.header-text {
+    text-align: center;
+}
+
+.img-box {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.img1 {
+    height: 110px;
+    width: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 8.5px;
+
+}
+
+.img2 {
+    height: 110px;
+    width: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 8.5px;
+}
+
+.img3 {
+    height: 110px;
+    width: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 8.5px;
+}
+
+.img4 {
+    height: 110px;
+    width: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 8.5px;
 }
 
 .quote-container {
