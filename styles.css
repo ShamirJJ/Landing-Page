@@ -1,6 +1,7 @@
 body {
     min-height: 100vh;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
@@ -62,6 +63,7 @@ h2 {
 
 .sign-up p {
     color: white;
+    font-weight: 300;
 }
 
 .btn1 {
@@ -150,10 +152,12 @@ h2 {
 .quote {
     flex: 1;
     width: 400px;
-    font-size: 16px;
+    font-size: 19px;
     color: #1F2937;
     margin: 0;
     padding-top: 50px;
+    font-style: italic;
+    font-weight: lighter;
 }
 
 .reference {
@@ -163,6 +167,7 @@ h2 {
     justify-content: flex-end;
     align-items: flex-start;
     padding-bottom: 50px;
+    font-weight: bold;
  
 }
 
@@ -204,6 +209,7 @@ h2 {
 
 .content p {
     margin-top: 0;
+    font-weight: 300;
 }
 
 .btn {
